@@ -1,4 +1,4 @@
-# Monokai Flat ![GitHub last commit](https://img.shields.io/github/last-commit/itjustwerk/Seafoam)
+# Monokai Flat ![GitHub last commit](https://img.shields.io/github/last-commit/itjustwerk/Monokai-Flat)
 High contrast modification of Monokai colour scheme for Sublime Text 4 removing dark yellow background and adding lighter colours.
 <img src="monokai-flat-ss1.jpg">
 <img src="monokai-flat-ss2.jpg">
